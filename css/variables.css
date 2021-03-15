@@ -1,0 +1,14 @@
+:root {
+    --tipografia: 'Poppins', sans-serif;
+    --negro-texto: #212121;
+    --negro2-texto: #474747;
+    --blanco-texto: #FFFFFF;
+    --gris-texto: #4D5959;
+    --grisClaro-texto: #878787;
+    --grisFooter-texto: #808080;
+    --celeste-acento: #56CFE1;
+    --naranja-acento: #FE9931;
+    --rojo-acento: #D01345;
+    --background-negro: #3e3e3e;
+    --background-rosado: ##ff61c3;
+}
