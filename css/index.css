@@ -837,5 +837,6 @@
         }
         .footerLinks {
             display: flex;
+            background-color: #111111;
         }
     }
